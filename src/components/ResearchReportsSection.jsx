@@ -11,16 +11,19 @@ const ResearchReportsSection = () => {
       title: "Global Economic Outlook",
       content:
         "Analyze current economic trends and their implications on a global scale. Provide forecasts for key economic indicators such as GDP growth, inflation, and employment.",
+      link: "https://persistventure.notion.site/Business-Start-To-Finish-785e5457847b4ee2b14cfc6649d2f68f",
     },
     {
       title: "Policies for Economic Recovery",
       content:
         "Evaluate and propose policies for post-pandemic economic recovery. Discuss the role of fiscal and monetary measures in stimulating economic growth.",
+      link: "https://persistventure.notion.site/How-To-Utilize-Students-Entrepreneurs-66c1990ed743492f9e167fd9edb1b307",
     },
     {
       title: "Innovation in Economic Models",
       content:
         "Explore innovative economic models that promote sustainability and inclusivity.Highlight examples of countries or regions successfully implementing new economic paradigms.",
+      link: "https://persistventure.notion.site/Recruiting-CEO-s-a3aa3a98e44c4245b9f71dcb8bf17037",
     },
   ];
 
@@ -32,7 +35,9 @@ const ResearchReportsSection = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {researchReports.map((report, index) => (
           <div key={index} className="bg-white p-4 rounded shadow-md">
-            <h3 className="text-xl font-semibold mb-2">{report.title}</h3>
+            <a href={report.link}>
+              <h3 className="text-xl font-semibold mb-2">{report.title}</h3>
+            </a>
             <p className="text-gray-600">{report.content}</p>
           </div>
         ))}

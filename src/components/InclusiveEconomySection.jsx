@@ -17,7 +17,7 @@ const InclusiveEconomySection = () => {
       image:
         "https://images.unsplash.com/photo-1444653389962-8149286c578a?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       articleLink:
-        "https://www.weforum.org/global-poverty-alleviation-strategies",
+        "https://persistventure.notion.site/Larry-Fink-s-2022-capitalism-letter-00d22569200c46a0aae41eefb08fd648",
     },
     {
       title: "Technological Innovations for Sustainable Development",
@@ -26,7 +26,7 @@ const InclusiveEconomySection = () => {
       image:
         "https://images.unsplash.com/photo-1573167507387-6b4b98cb7c13?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       articleLink:
-        "https://www.weforum.org/technological-innovations-sustainable-development",
+        "https://persistventure.notion.site/Business-Structure-Breakdown-0bf2740d1c494878848b2403eb11a2f1",
     },
     {
       title: "Climate Change Mitigation Initiatives",
@@ -35,7 +35,7 @@ const InclusiveEconomySection = () => {
       image:
         "https://plus.unsplash.com/premium_photo-1686878940830-9031355ec98c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       articleLink:
-        "https://www.weforum.org/climate-change-mitigation-initiatives",
+        "https://persistventure.notion.site/Delegate-Jobs-957a87716fe146c19d05064890b9819c",
     },
     {
       title: "Digital Transformation in Emerging Economies",
@@ -44,7 +44,7 @@ const InclusiveEconomySection = () => {
       image:
         "https://images.unsplash.com/photo-1594051107845-914bd919314b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       articleLink:
-        "https://www.weforum.org/digital-transformation-emerging-economies",
+        "https://persistventure.notion.site/Delegate-Jobs-957a87716fe146c19d05064890b9819c",
     },
     {
       title: "Healthcare Access for Vulnerable Communities",
@@ -53,7 +53,7 @@ const InclusiveEconomySection = () => {
       image:
         "https://images.unsplash.com/photo-1695654402912-b2945fe32cab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       articleLink:
-        "https://www.weforum.org/healthcare-access-vulnerable-communities",
+        "https://persistventure.notion.site/Effective-Ownership-1f85a2ae42e84677bfe9b14246b40ebb",
     },
     {
       title: "Global Education Equality Initiatives",
@@ -62,7 +62,7 @@ const InclusiveEconomySection = () => {
       image:
         "https://images.unsplash.com/photo-1591625992137-4923419701d5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       articleLink:
-        "https://www.weforum.org/global-education-equality-initiatives",
+        "https://persistventure.notion.site/Persist-Fund-655c14d892d849dfa74de84e3be1257d",
     },
     {
       title: "Sustainable Business Practices Worldwide",
@@ -71,7 +71,7 @@ const InclusiveEconomySection = () => {
       image:
         "https://images.unsplash.com/photo-1553073520-80b5ad5ec870?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       articleLink:
-        "https://www.weforum.org/sustainable-business-practices-worldwide",
+        "https://persistventure.notion.site/Starter-Studio-Investment-Memo-fe385a214f5d4cc081c0ed0c1c7d6b97",
     },
     {
       title: "Youth Empowerment for a Brighter Future",
@@ -79,7 +79,8 @@ const InclusiveEconomySection = () => {
         "Empowering the youth with skills and opportunities for a brighter global future.",
       image:
         "https://images.unsplash.com/photo-1694884442915-f646b560288a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      articleLink: "https://www.weforum.org/youth-empowerment-brighter-future",
+      articleLink:
+        "https://persistventure.notion.site/Starter-Studio-For-Artists-cc680ef72b8b4ab7a9055df44bece5b7",
     },
     {
       title: "Global Economic Resilience Strategies",
@@ -88,7 +89,7 @@ const InclusiveEconomySection = () => {
       image:
         "https://images.unsplash.com/photo-1616259833791-9a8d5529a87c?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       articleLink:
-        "https://www.weforum.org/global-economic-resilience-strategies",
+        "https://persistventure.notion.site/Apparel-Stud-io-f9a16be0167c486ea5bd5def369754fb",
     },
     {
       title: "Ensuring Water Security Worldwide",
@@ -96,7 +97,8 @@ const InclusiveEconomySection = () => {
         "Initiatives to address water scarcity and ensure water security for all.",
       image:
         "https://plus.unsplash.com/premium_photo-1661488692348-ed1a1736c03a?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      articleLink: "https://www.weforum.org/ensuring-water-security-worldwide",
+      articleLink:
+        "https://persistventure.notion.site/Advertising-Stud-io-69f6555dbc734a159b5144353c3db716",
     },
   ];
 

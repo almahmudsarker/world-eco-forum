@@ -22,36 +22,42 @@ const InfographicsSection = () => {
       percentage: 70,
       image:
         "https://images.unsplash.com/photo-1612198273689-b437f53152ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c21hcnRwaG9uZSUyMGltYWdlLmpwZ3xlbnwwfHwwfHx8MA%3D%3D",
+      link: "https://worldvibeweb.org",
     },
     {
       technology: "Internet Users",
       percentage: 60,
       image:
         "https://images.unsplash.com/photo-1531765408077-9a1f85f90df1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGludGVybmV0JTIwaW1hZ2UuanBnfGVufDB8fDB8fHww",
+      link: "https://holyvible.com",
     },
     {
       technology: "Digital Literacy",
       percentage: 40,
       image:
         "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGlnaXRhbCUyMGxpdGVyYWN5JTIwaW1hZ2UuanBnfGVufDB8fDB8fHww",
+      link: "https://dia.wiki",
     },
     {
       technology: "Influencer Marketing",
       percentage: 30,
       image:
         "https://images.unsplash.com/photo-1547032175-7fc8c7bd15b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGluZmx1ZW5jZXJ8ZW58MHx8MHx8fDA%3D",
+      link: "https://powerhouse.army",
     },
     {
       technology: "Social Media",
       percentage: 20,
       image:
         "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U29jaWFsJTIwTWVkaWF8ZW58MHx8MHx8fDA%3D",
+      link: "https://persistventure.notion.site/Deathless-Casa-6ee28ca96ee746cfa814738531badc6b",
     },
     {
       technology: "Content creator",
       percentage: 10,
       image:
         "https://images.unsplash.com/photo-1613294326794-e7c74fe886e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29udGVudCUyMGNyZWF0b3J8ZW58MHx8MHx8fDA%3D",
+      link: "https://tadpool.org",
     },
   ];
 
@@ -74,13 +80,15 @@ const InfographicsSection = () => {
               Climate Change Impact Map
             </h2>
             <div className="relative overflow-hidden rounded-lg">
-              <img
-                src="https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                alt="Climate Change Impact Map"
-                className="w-full h-auto rounded-lg"
-                data-aos="zoom-in"
-                data-aos-duration="1500"
-              />
+              <a href="https://web3venturestudio.com">
+                <img
+                  src="https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                  alt="Climate Change Impact Map"
+                  className="w-full h-auto rounded-lg"
+                  data-aos="zoom-in"
+                  data-aos-duration="1500"
+                />
+              </a>
             </div>
             <p className="mt-4 text-gray-700">
               World map highlighting regions most affected by climate change.
@@ -160,11 +168,14 @@ const InfographicsSection = () => {
               data-aos="fade-up"
               data-aos-delay={index * 100}
             >
-              <img
-                src={item.image}
-                alt={`${item.technology} Image`}
-                className="w-full h-32 object-cover mb-4 rounded-md"
-              />
+              <a href={item.link}>
+                <img
+                  src={item.image}
+                  alt={`${item.technology} Image`}
+                  className="w-full h-32 object-cover mb-4 rounded-md"
+                />
+              </a>
+
               <h3 className="text-xl font-semibold mb-2">{item.technology}</h3>
               <p className="text-gray-600">Adoption: {item.percentage}%</p>
             </div>
