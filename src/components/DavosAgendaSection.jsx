@@ -36,30 +36,33 @@ const DavosAgendaSection = () => {
           className="w-full md:w-1/2"
         >
           <h1 className="text-2xl md:text-4xl font-bold text-left py-4">
-            Role of International Collaboration
+            FLIC TALENT
           </h1>
           <hr className="my-4" />
           <p className="text-left text-base md:text-lg">
-            Economic Impact: <br />
-            Analyze how geopolitical decisions and tensions influence global
-            economic trends. Explore the effects on trade, investment, and
-            economic growth. Discuss potential scenarios for economic
-            cooperation or isolation. <br />
-            Security and Defense: <br />
-            Examine the implications of geopolitical discussions on global
-            security and defense strategies. Discuss the role of international
-            organizations in addressing security threats and fostering peace.{" "}
-            <br />
-            Humanitarian Challenges: <br />
-            Explore how geopolitical factors contribute to or mitigate
-            humanitarian challenges, including migration, refugees, and human
-            rights violations. Discuss efforts to address these challenges
-            through international collaboration. <br />
-            Technological Landscape: <br />
-            Consider how geopolitical considerations impact the global
-            technology landscape, including issues such as data governance,
-            cybersecurity, and the race for technological dominance. Discuss
-            collaborative approaches to managing technological advancements.
+            Plan for your future. As a growing influencer your social pages will
+            become more and more vital to your career. Ultimately you eventually
+            want to reach a point where you have an entire instagram team. Your
+            DM's on these pages is what you wouldnt want leaked. One huge key
+            factor is turning viewers into fans, in order to do you need to give
+            the curious ones a chance to take a deeper look into your life.
+            Factors such as your other achievements, philosophies, ideas,
+            everything you display on the table will change the sticking power
+            of the people you attract. Based on who you are attracting there is
+            smaller or larger pools of people and these pools of people pertain
+            to higher and lower quality level of people. Give people DEEPER ways
+            to connect with who you are at the core. This is how you move from
+            fans to followers to mercenaries. We call this the Talent
+            Relationship Building Funnel: The goal is to let people down your
+            personal Rabbithole. What do you truly care about, what do you truly
+            want, most important why? If you let these visions out into the
+            world, people will help them manifest into reality. Hated by many
+            and loved by many aswell. True influence is in the superfans, who
+            will go out of their way to push your ward your ideas given. True
+            disciples. Your conversion ratio from new viewer to person who helps
+            your conquest prevail needs to be maximized. **You are the 5 people
+            you surround yourself with. Nowadays we surround ourselves with
+            virtual friends
           </p>
         </div>
       </div>
@@ -71,31 +74,34 @@ const DavosAgendaSection = () => {
           className="w-full md:w-1/2"
         >
           <h1 className="text-2xl md:text-4xl font-bold text-left py-4">
-            Implications on the Global Stage
+            Persist Accelerator
           </h1>
           <hr className="my-4" />
           <p className="text-left text-base md:text-lg">
             {" "}
-            Economic Impact: <br />
-            Analyze how geopolitical decisions and tensions influence global
-            economic trends. Explore the effects on trade, investment, and
-            economic growth. Discuss potential scenarios for economic
-            cooperation or isolation. <br />
-            Security and Defense: <br />
-            Examine the implications of geopolitical discussions on global
-            security and defense strategies. Discuss the role of international
-            organizations in addressing security threats and fostering peace.{" "}
-            <br />
-            Humanitarian Challenges: <br />
-            Explore how geopolitical factors contribute to or mitigate
-            humanitarian challenges, including migration, refugees, and human
-            rights violations. Discuss efforts to address these challenges
-            through international collaboration. <br />
-            Technological Landscape: <br />
-            Consider how geopolitical considerations impact the global
-            technology landscape, including issues such as data governance,
-            cybersecurity, and the race for technological dominance. Discuss
-            collaborative approaches to managing technological advancements.
+            Persist Accelerator is a venture studio that leverages high-growth
+            attention sources to  fast track the process of fundraising,
+            brand-awareness, and finding product-market fit. We tap into our
+            influential partners vast networks of established influence, and in
+            return solidify their fame by attaching a real, value creating
+            business to their name. As we saw with Fyre Festival, coordinating
+            influencers is an amazing way to get the whole world talking and
+            interested in a new idea. This is starting with a smaller more
+            straightforward cash flow generation business leading to a proven
+            model, and expanding our influencer network. At which point we will
+            group venture larger projects in the tech space. Our founder was
+            previously featured in yahoo news for building a 7 figure business
+            in a year. He ran a bootstrapped venture studio for the past. As we
+            move deeper into the information age, more and more time is being
+            spent on the digital playing field. Human attention is what drives
+            change, and markets. Society is undergoing a massive change in where
+            human attention is being focused. We are working with young
+            celebrities today who are becoming the legends of tomorrow. We not
+            only provide a means to capture that opportunity full force and
+            combine it with the meaningful backbone of a conscious community to
+            provide guidance along the way. As Persist and its operations
+            continue moving forward we know all too well the opportunities
+            towards distractions increase as well.
           </p>
         </div>
 

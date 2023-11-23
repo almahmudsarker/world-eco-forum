@@ -14,12 +14,12 @@ const YoungGlobalLeaders = () => {
 
   const youngGlobalLeadersData = [
     {
-      name: "Zhang Yaoyu",
-      title: "General Manager, PetroChina International",
-      country: "People's Republic of China",
-      bio: "As the General Manager of PetroChina International, Zhang Yaoyu would likely be responsible for overseeing the international business operations of PetroChina, one of the largest oil and gas companies in the world. PetroChina is a major player in the energy sector, involved in various aspects of the oil and gas industry, including exploration, production, refining, and marketing.Typically, the role of a General Manager in such a position involves making strategic decisions, managing international business relationships, ensuring operational efficiency, and contributing to the company's overall growth and profitability.",
+      name: "Joud Abdel Majeid",
+      title: "Head, Investment Stewardship, BlackRock",
+      country: "United States",
+      bio: "As the Senior Managing Director; Global Head, Investment Stewardship, BlackRock, Joud Abdel Majeid would likely be responsible for overseeing the international business operations of PetroChina, one of the largest oil and gas companies in the world. PetroChina is a major player in the energy sector, involved in various aspects of the oil and gas industry, including exploration, production, refining, and marketing.Typically, the role of a General Manager in such a position involves making strategic decisions, managing international business relationships, ensuring operational efficiency, and contributing to the company's overall growth and profitability.",
       image:
-        "https://assets.weforum.org/sf_account/image/responsive_small_webp_v9StXyAbWS9n0a6-nBxPICo2xIytRSRCpUwCdm1wvYc.webp",
+        "https://assets.weforum.org/sf_account/image/responsive_small_webp_JeKDSMsN-Uo7umq4L17j9xOmZM8BMCZgIUgWK7_DSzA.webp",
     },
     {
       name: "Faisal Abbas",
@@ -27,15 +27,15 @@ const YoungGlobalLeaders = () => {
       country: "Saudi Arabia",
       bio: "Being in the position of Editor-in-Chief at Arab News, Faisal Abbas played a role in contributing to the media landscape in Saudi Arabia. His work would have involved addressing key issues, providing analysis, and offering a platform for diverse voices in the English-speaking community. He would have also been responsible for managing the editorial team and ensuring that the publication's content is in line with the company's vision and mission.",
       image:
-        "https://assets.weforum.org/sf_account/image/responsive_small_webp_VSCgD6bCkM3x8fxR95RxfGf6wPeLGZG72u_iBA7dUwc.webp",
+        "https://assets.weforum.org/sf_account/image/responsive_small_webp_HBlKA27ec9J-8gUYwsqkfjts-FGSGN8reymT0J3tc70.webp",
     },
     {
-      name: "Usman Ahmed",
-      title: "Head, Paypal",
-      country: "United States",
-      bio: "Usman Ahmed is a Young Global Leader committed to making a positive impact on the world. Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      name: "Mohammed Alghanim",
+      title: "Chief Executive Officer",
+      country: "Kuwait",
+      bio: "Mohammed Alghanim is a Young Global Leader committed to making a positive impact on the world. Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
       image:
-        "https://assets.weforum.org/sf_account/image/responsive_small_webp_Fdtddmgl6t7GPlhukxN_IbpcrPXslonEfZah-3WskQc.webp", // Replace with actual image file
+        "https://assets.weforum.org/sf_account/image/responsive_small_webp_xVCOE1Qtkz_chxUaAjsYMCwRaZpsrPOy90-2NJoRULY.webp",
     },
     {
       name: "Daniel Ahn",
@@ -44,7 +44,7 @@ const YoungGlobalLeaders = () => {
       country: "United States",
       bio: "Daniel Ahn is a Young Global Leader committed to making a positive impact on the world. Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
       image:
-        "https://assets.weforum.org/sf_account/image/responsive_small_webp_BcmGBydxf_Jrc0YidLSdRPm7bAUTWBL0pwaF8rGJ_EE.webp", // Replace with actual image file
+        "https://assets.weforum.org/sf_account/image/responsive_small_webp_BcmGBydxf_Jrc0YidLSdRPm7bAUTWBL0pwaF8rGJ_EE.webp",
     },
   ];
 
