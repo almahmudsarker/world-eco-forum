@@ -18,42 +18,42 @@ const InfographicsSection = () => {
 
   const infographicData = [
     {
-      technology: "Smartphones",
+      technology: "Holy Vibe Contest",
       percentage: 70,
       image:
         "https://images.unsplash.com/photo-1612198273689-b437f53152ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c21hcnRwaG9uZSUyMGltYWdlLmpwZ3xlbnwwfHwwfHx8MA%3D%3D",
-      link: "https://worldvibeweb.org",
-    },
-    {
-      technology: "Internet Users",
-      percentage: 60,
-      image:
-        "https://images.unsplash.com/photo-1531765408077-9a1f85f90df1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGludGVybmV0JTIwaW1hZ2UuanBnfGVufDB8fDB8fHww",
       link: "https://holyvible.com",
     },
     {
-      technology: "Digital Literacy",
+      technology: "World Vibe Web",
+      percentage: 60,
+      image:
+        "https://images.unsplash.com/photo-1531765408077-9a1f85f90df1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGludGVybmV0JTIwaW1hZ2UuanBnfGVufDB8fDB8fHww",
+      link: "https://worldvibeweb.org",
+    },
+    {
+      technology: "Decentralized Intelligence Agency",
       percentage: 40,
       image:
         "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGlnaXRhbCUyMGxpdGVyYWN5JTIwaW1hZ2UuanBnfGVufDB8fDB8fHww",
       link: "https://dia.wiki",
     },
     {
-      technology: "Influencer Marketing",
+      technology: "Powering Innovation",
       percentage: 30,
       image:
         "https://images.unsplash.com/photo-1547032175-7fc8c7bd15b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGluZmx1ZW5jZXJ8ZW58MHx8MHx8fDA%3D",
       link: "https://powerhouse.army",
     },
     {
-      technology: "Social Media",
+      technology: "Deathless Casa",
       percentage: 20,
       image:
         "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U29jaWFsJTIwTWVkaWF8ZW58MHx8MHx8fDA%3D",
       link: "https://persistventure.notion.site/Deathless-Casa-6ee28ca96ee746cfa814738531badc6b",
     },
     {
-      technology: "Content creator",
+      technology: "young visionaries",
       percentage: 10,
       image:
         "https://images.unsplash.com/photo-1613294326794-e7c74fe886e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29udGVudCUyMGNyZWF0b3J8ZW58MHx8MHx8fDA%3D",
@@ -69,7 +69,7 @@ const InfographicsSection = () => {
       >
         Infographics And Data Visualizations
       </h2>
-      <section className="py-16">
+      {/* <section className="py-16">
         <div className="container mx-auto">
           <div
             className=" p-6 rounded-lg shadow-md"
@@ -113,10 +113,10 @@ const InfographicsSection = () => {
             </p>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Global Income Inequality Chart */}
-      <div className="container mx-auto p-4">
+      {/* <div className="container mx-auto p-4">
         <h2 className="text-3xl font-bold mb-8" data-aos="fade-up">
           Global Income Inequality Chart
         </h2>
@@ -153,7 +153,7 @@ const InfographicsSection = () => {
             </div>
           ))}
         </div>
-      </div>
+      </div> */}
 
       {/* Technology adoption infographic */}
       <div className="container mx-auto p-4">

@@ -1,8 +1,8 @@
 const Header = () => {
   return (
     <div className="container mx-auto bg-transparent text-black shadow min-w-full">
-      <nav className="flex items-center justify-around md:justify-between mx-10">
-        <button>
+      <nav className="flex items-center justify-between mx-10">
+        {/* <button>
           <svg
             className="h-6 w-6 text-black"
             xmlns="http://www.w3.org/2000/svg"
@@ -17,11 +17,11 @@ const Header = () => {
               d="M19 9l-7 7-7-7"
             />
           </svg>
-        </button>
+        </button> */}
         {/* Logo */}
 
         <img
-          className="h-[100px] w-[100px]  hidden md:block"
+          className="h-[100px] w-[100px] md:h-[130px] md:w-[130px] lg:h-[150px] lg:w-[150px]"
           src="/Circle White.png"
           alt="Logo"
         />

@@ -9,10 +9,10 @@ AOS.init();
 const PartnershipsSection = () => {
   // Sample data for partnerships
   const partnerships = [
-    "Climate CEO Alliance: Cut Global Emissions 7% Annually to 2030 to Maintain Paris-Agreed Global Warming Limit",
-    "Tropical Forest Alliance Facilitates Trade of ‘Deforestation-Free’ Soybeans from Brazil to China",
-    "World Economic Forum Launches Global Initiative to Invest in Urban Innovation Ecosystems",
-    "Generative AI to Enhance Creativity, Automate Routine Tasks for Future Jobs",
+    "Persist Accelerator Investment: Persist Accelerator is a venture studio that leverages high-growth attention sources to  fast track the process of fundraising, brand-awareness, and finding product-market fit",
+    "The Physical World and Digital World Are Merging: As we move deeper into the information age, more and more time is being spent on the digital playing field",
+    "With great power comes not only great responsibility: As Persist and its operations continue moving forward we know all too well the opportunities towards distractions increase as well",
+    "Current Status and Investment Opportunity: Persist is currently in the process of raising a $1.5M seed round to fund the development of the Persist App and the Persist Accelerator",
   ];
 
   return (

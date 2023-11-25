@@ -51,18 +51,18 @@ const App = () => {
           </section>
 
           {/* Feature: Videos and Podcasts */}
-          <section className="my-24">
+          {/* <section className="my-24">
             <VideosPodcastsSection />
-          </section>
+          </section> */}
 
           {/* Feature: Infographics and Data Visualizations */}
           <section className="mb-8 container mx-auto">
             <InfographicsSection />
           </section>
           {/* Feature: Young Global Leaders */}
-          <section className="mb-8">
+          {/* <section className="mb-8">
             <YoungGlobalLeaders />
-          </section>
+          </section> */}
 
           <Disclosure>
             {/* Render Inclusive Economy Section */}
