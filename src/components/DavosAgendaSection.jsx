@@ -20,7 +20,7 @@ const DavosAgendaSection = () => {
         Davos Agenda
       </h2>
 
-      <div className="flex flex-col md:flex-row my-8 md:my-16 space-y-4 md:space-y-0 md:space-x-8">
+      <div className="flex flex-col md:flex-row my-8 md:my-16 space-y-4 md:space-y-0 md:space-x-8 px-5 md:px-0">
         <img
           data-aos="zoom-in"
           data-aos-delay="50"
