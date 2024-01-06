@@ -89,7 +89,9 @@ const ArticlesAndEssays = () => {
                 rel="noreferrer"
                 className="text-blue-500 hover:underline cursor-pointer "
               >
-                <p className="pt-6 sm:pt-20 md:pt-7 lg:mt-10">Read More</p>
+                <p className="pt-6 sm:pt-20 md:pt-7 mt-12 sm:mt-11 lg:mt-10">
+                  Read More
+                </p>
               </a>
             </div>
           </div>

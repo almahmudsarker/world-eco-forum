@@ -26,11 +26,11 @@ const Header = () => {
           alt="Logo"
         />
         {/* Navigation Links */}
-        <ul className="flex items-center space-x-4">
-          <button className="hover:bg-transparent bg-gradient-to-tr from-purple-400 to-blue-500  border hover:border-purple-100 hover:text-white text-white font-bold py-2 px-4 rounded-full">
+        <ul className="flex items-center space-x-1 sm:space-x-4">
+          <button className="hover:bg-transparent bg-gradient-to-tr from-purple-400 to-blue-500  border hover:border-purple-100 hover:text-white text-white font-bold py-2 px-2 sm:px-4 rounded-full">
             <a href="https://www.weforum.org/join-us/individuals/">Join us</a>
           </button>
-          <button className="hover:bg-transparent bg-gradient-to-tr from-purple-400 to-blue-500  border hover:border-purple-100 hover:text-white text-white font-bold py-2 px-4 rounded-full">
+          <button className="hover:bg-transparent bg-gradient-to-tr from-purple-400 to-blue-500  border hover:border-purple-100 hover:text-white text-white font-bold py-2 px-2 sm:px-4 rounded-full">
             <a href="https://www.weforum.org/join-us/organizations/">Sign In</a>
           </button>
         </ul>
