@@ -18,7 +18,7 @@ const ArticlesAndEssays = () => {
       link: "https://www.domainmarket.com/buynow/federalpreserve.com",
     },
     {
-      img: "https://purplerock.xyz/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F50235e0d-5a8b-40b2-8106-0b0c4e609b11%2FCircle_White.png?table=block&id=b28e9929-14c1-44c0-83ea-526e736902df&spaceId=f78663f8-78b0-4675-9f1f-807e68f53ff1&width=250&userId=&cache=v2",
+      img: "https://www.purplerock.xyz/Images/icon.png",
       title: "Utopia Unleashed, Beyond Reality",
       content:
         "Beyond the spectrum that our eyes perceive, In the space of dreams, where hopes weave,There lies PurpleRock, standing tall and free, A testament to what can be, a world of unity.Like the perfect society, it's....",
