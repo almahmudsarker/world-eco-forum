@@ -70,7 +70,7 @@ const ArticlesAndEssays = () => {
       >
         Articles and Essays
       </h2>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 2xl:px-2">
         {visibleArticles.map((article, index) => (
           <div key={index} data-aos="fade-up" data-aos-delay={`${index * 100}`}>
             <div className="bg-white p-4 rounded shadow-md">
