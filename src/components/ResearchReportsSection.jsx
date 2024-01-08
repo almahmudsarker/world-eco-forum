@@ -28,11 +28,11 @@ const ResearchReportsSection = () => {
   ];
 
   return (
-    <section className="container mb-8 shadow-lg" data-aos="fade-up">
-      <h2 className="text-3xl text-black md:text-white font-bold mb-4 text-center mt-20 md:mt-0">
+    <section className="container  shadow-lg" data-aos="fade-up">
+      <h2 className="text-3xl text-white font-bold mb-4 text-center mt-20 md:mt-0">
         Research Reports
       </h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:px-5">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 px-2 lg:px-5">
         {researchReports.map((report, index) => (
           <div key={index} className="bg-white p-4 rounded shadow-md">
             <a href={report.link}>

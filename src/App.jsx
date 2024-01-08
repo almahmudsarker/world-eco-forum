@@ -41,7 +41,7 @@ const App = () => {
 
           {/* Feature: Research Reports */}
           <section
-            className="my-8 h-[400px] bg-cover bg-center bg-no-repeat items-center flex justify-center w-full"
+            className="my-8 h-[700px] sm:[600px] md:h-[400px] bg-cover bg-center bg-no-repeat items-center flex justify-center w-full"
             style={{
               backgroundImage: `url(${backgroundImage})`,
               boxShadow: "inset 0 0 0 2000px rgba(0, 0, 0, 0.5)",
